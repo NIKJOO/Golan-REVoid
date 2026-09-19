@@ -155,4 +155,4 @@ This project is provided for **educational and research purposes**.
 
 Obfuscation does not guarantee security. Always combine with proper server-side validation, secure key management, and other defense-in-depth measures. The authors are not responsible for misuse.
 
----
+
