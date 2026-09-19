@@ -1,5 +1,7 @@
 # Golang-REVoid — Delphi Go Source Virtualizer & Obfuscator
 
+<a><img src="https://github.com/NIKJOO/Golan-REVoid/blob/main/logo.png" border="0" /></a>
+
 **Go_VM** is a console tool written in **Delphi 10.2 (Tokyo)** that takes a Go source file, virtualizes eligible functions into a custom stack-based VM bytecode, applies multiple obfuscation passes, and emits a **compilable Go program** containing the full VM runtime and the obfuscated functions.
 
 It is a Delphi reimplementation of the core ideas behind a Python-based Go VM obfuscator (AST-driven compilation, control-flow flattening, constant encryption, instruction substitution, etc.).
