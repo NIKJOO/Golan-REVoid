@@ -99,6 +99,9 @@ go run main_obfuscated.go
                                                  │   VM runtime)   │
                                                  └─────────────────┘
 ```
+## VM Dis-assembly Architecture in IDA
+
+<a><img src="https://github.com/NIKJOO/Golan-REVoid/blob/main/IDA.jpg" border="0" /></a>
 
 ### Main components (inside `Go_VM.dpr`)
 
