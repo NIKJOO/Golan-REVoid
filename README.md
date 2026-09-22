@@ -78,11 +78,6 @@ Go_VM.exe main.go main_obfuscated.go
 go run main_obfuscated.go
 ```
 
-
-(Wrong password or invalid length produces `DENIED`.)
-
----
-
 ## Architecture overview
 
 ```
